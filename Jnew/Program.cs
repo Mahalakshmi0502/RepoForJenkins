@@ -12,7 +12,7 @@ namespace Jnew
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello Jenkins");
-            Console.Readkey();
+            Console.Read();
         }
     }
 }
